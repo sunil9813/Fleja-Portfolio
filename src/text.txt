@@ -1,0 +1,16 @@
+ #4267b2;
+ linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+ #38a1f3;
+ #e92525;
+ #c8232c;
+ #ee72a2;
+ 
+Lorem ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+Home
+About
+Portfolio
+News
+Contact
+FAQ's
